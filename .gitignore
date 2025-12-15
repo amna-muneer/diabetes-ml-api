@@ -1,0 +1,10 @@
+__pycache__/
+.ipynb_checkpoints/
+venv/
+.env
+*.log
+data/
+models/
+*.h5
+*.pkl
+
