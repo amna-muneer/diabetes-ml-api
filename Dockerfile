@@ -40,5 +40,6 @@ COPY . .
 ##########################################
 EXPOSE 5000
 
-CMD ["spark-submit", "app.py"]
+CMD ["python", "app.py"]
+
 
