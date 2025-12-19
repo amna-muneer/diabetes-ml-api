@@ -1,3 +1,6 @@
+# Author: Amna Muneer
+# Project: Diabetes Prediction using Spark ML & Flask API
+# Year: 2025
 from flask import Flask, request, jsonify
 from pyspark.sql import SparkSession
 from pyspark.ml.feature import VectorAssembler, LogisticRegressionModel
